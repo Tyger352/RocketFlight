@@ -1,7 +1,3 @@
-
-%% TRANSATMOSPHERIC ASSIGNMENT %%%%
-%% Carleton University %%%%
-%% Tyler Blair - 101074740 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear
 clc
